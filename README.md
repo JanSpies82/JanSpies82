@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Janco Spies
+I am currently a third year BSc Computer Science student at the University of Pretoria. My interests include AI, statistics and bad jokes.
+Why did the statistician bring a ladder to the bar?
+Because they heard the drinks were on the house, and they wanted to get a good sample from the top!
+
 
 <!--
 **JanSpies82/JanSpies82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
