@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Janco Spies
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janco-spies-09787b1aa/)](https://www.linkedin.com/in/janco-spies-09787b1aa/)
 [![wakatime](https://wakatime.com/badge/user/97d54576-8306-4af5-93d3-1b38dfe216c5.svg)](https://wakatime.com/@97d54576-8306-4af5-93d3-1b38dfe216c5)
+![profile views](https://komarev.com/ghpvc/?username=JanSpies82&label=Profile%20views&color=0e75b6&style=flat)
 
 I am currently a third year BSc Computer Science student at the University of Pretoria. My interests include AI, statistics and bad jokes.  
 Why did the statistician bring a ladder to the bar?
