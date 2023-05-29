@@ -7,7 +7,7 @@ I am currently a third year BSc Computer Science student at the University of Pr
 Why did the statistician bring a ladder to the bar?
 Because they heard the drinks were on the house, and they wanted to get a good sample from the top!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JanSpies82&count_private=true&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats-seven-rho-15.vercel.app/api?username=JanSpies82&count_private=true&show_icons=true&theme=dark)
 
 <!--
 **JanSpies82/JanSpies82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
